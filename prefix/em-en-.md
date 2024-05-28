@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../contents.md)
 
-# <p style="text-align: center;">PREFIX EM- & EN-</p>
+# PREFIX EM- & EN-
 
 - empower
 - endanger

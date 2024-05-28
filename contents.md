@@ -1,4 +1,4 @@
-﻿# <p style="text-align: center;">CONTENTS</p>
+﻿# CONTENTS
 
 - prefix
     - [en- & em-](./prefix/em-en-.md)
