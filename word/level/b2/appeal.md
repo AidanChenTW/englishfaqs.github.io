@@ -1,10 +1,10 @@
-﻿[Back to Contents](../../README.md)
+﻿[Back to Contents](../../../README.md)
 
 # [appeal(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/appeal_1)
-- 呼籲(countable, uncountable)
-- 吸引力(uncountable), a quality that makes somebody/something attractive or interesting
-- 上訴(countable, uncountable)
-- 訴諸(countable)
+- (countable, uncountable)呼籲
+- (uncountable)吸引力, a quality that makes somebody/something attractive or interesting
+- (countable, uncountable)上訴
+- (countable)訴諸
 
 # [appeal(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/appeal_2)
 - 呼籲

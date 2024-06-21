@@ -1,7 +1,10 @@
 # CONTENTS
 - word
-    - b2
-        - [appeal](./word/b2/appeal.md)
+    - level
+        - b2
+            - [appeal](./word/level/b2/appeal.md)
+    - topics
+        - [trees](./word/topics/trees.md)
 - perplexity
     - [used to vs. be used to](./perplexity/used-to-vs-be-used-to.md)
 - prefix
