@@ -1,5 +1,7 @@
 ﻿[Back to Contents](../README.md)
 
+# <p style="text-align: center;">USED-TO VS. BE-USED-TO</p>
+
 # Used To + Infinitive: 曾經
 - I used to be young.
 - I used to go swimming once a month.

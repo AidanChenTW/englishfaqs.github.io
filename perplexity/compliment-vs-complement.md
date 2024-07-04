@@ -1,6 +1,8 @@
 ﻿[Back to Contents](../README.md)
 
-# Compliment
+# <p style="text-align: center;">COMPLIMENT VS COMPLEMENT</p>
+
+# COMPLIMENT
 ## [compliment(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/compliment_1)
     - a comment that expresses praise or approval of somebody，稱讚
     - compliments(formal)
@@ -18,7 +20,7 @@
 ## [compliments slip(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/compliments-slip)
     - a small piece of paper printed with the name of a company that is sent out together with information, goods, etc.
 
-# Complement
+# COMPLEMENT
 ## [complement(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/complement_1)
     - 互補，補充
 
