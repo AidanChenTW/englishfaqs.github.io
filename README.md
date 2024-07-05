@@ -15,6 +15,7 @@
 - [commit](./word/level/b1/commit.md)
 #### b2
 - [appeal](./word/level/b2/appeal.md)
+- [tear](./word/level/b2/tear.md)
 
 ### topics
 - [body](./word/topics/body.md)
