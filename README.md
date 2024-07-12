@@ -2,8 +2,9 @@
 # <p style="text-align: center;">CONTENTS</p>
 
 ## perplexity
-- [used to vs. be used to](./perplexity/used-to-vs-be-used-to.md)
 - [compliment vs. complement](./perplexity/compliment-vs-complement.md)
+- [desperate vs. desperado](./perplexity/desperate-vs-desperado.md)
+- [used to vs. be used to](./perplexity/used-to-vs-be-used-to.md)
 
 ## prefix
 - [en- & em-](./prefix/em-en-.md)
