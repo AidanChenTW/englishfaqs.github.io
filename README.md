@@ -4,6 +4,7 @@
 ## perplexity
 - [compliment vs. complement](./perplexity/compliment-vs-complement.md)
 - [desperate vs. desperado](./perplexity/desperate-vs-desperado.md)
+- [process, progress, proceed](./perplexity/process-progress-proceed.md)
 - [used to vs. be used to](./perplexity/used-to-vs-be-used-to.md)
 
 ## prefix
