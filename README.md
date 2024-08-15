@@ -17,14 +17,20 @@
 
 ## word
 ### level
+#### a1
+- [introduce](./word/level/b1/introduce.md)
 #### b1
 - [commit](./word/level/b1/commit.md)
+
 #### b2
 - [appeal](./word/level/b2/appeal.md)
 - [regard](./word/level/b2/regard.md)
 - [tear](./word/level/b2/tear.md)
+
 #### c1
+- [convict](./word/level/c1/convict.md)
 - [haunt](./word/level/c1/haunt.md)
+- [verdict](./word/level/c1/verdict.md)
 
 ### topics
 - [body](./word/topics/body.md)
@@ -32,4 +38,3 @@
 - [musicians](./word/topics/musician.md)
 - [packaging](./word/topics/packaging.md)
 - [trees](./word/topics/trees.md)
-
