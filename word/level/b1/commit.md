@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">COMMIT</p>
+<h1 style="text-align: center;">COMMIT</h1>
 
 ## [commit(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/commit)
 - crime: 犯罪

@@ -1,3 +1,3 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">MANIFEST</p>
+<h1 style="text-align: center;">MANIFEST</h1>

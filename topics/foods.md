@@ -1,6 +1,6 @@
-﻿[Back to Contents](../../README.md)
+﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">FOODS</p>
+<h1 style="text-align: center;">FOODS</h1>
 
 ## [mozzarella](https://www.oxfordlearnersdictionaries.com/definition/english/mozzarella)
     - 馬蘇里拉起司

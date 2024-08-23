@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">CORRUPT, DISRUPT</p>
+<h1 style="text-align: center;">CORRUPT, DISRUPT</h1>
 
 ## CORRUPT
 

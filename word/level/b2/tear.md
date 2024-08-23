@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">TEAR</p>
+<h1 style="text-align: center;">TEAR</h1>
 
 ## [tear(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/tear1_1)
 > Verb Forms: tear/tore/torn

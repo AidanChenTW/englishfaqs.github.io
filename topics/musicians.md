@@ -1,6 +1,6 @@
-﻿[Back to Contents](../../README.md)
+﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">MUSICIANS</p>
+<h1 style="text-align: center;">MUSICIANS</h1>
 
 ## [Chopin](https://www.merriam-webster.com/dictionary/Chopin)
 > 蕭邦

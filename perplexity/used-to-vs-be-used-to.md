@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">USED-TO VS. BE-USED-TO</p>
+<h1 style="text-align: center;">USED-TO VS. BE-USED-TO</h1>
 
 # Used To + Infinitive: 曾經
 - I used to be young.

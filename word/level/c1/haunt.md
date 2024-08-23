@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">HAUNT</p>
+<h1 style="text-align: center;">HAUNT</h1>
 
 ## [haunt(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/haunt_1)
 - if the ghost of a dead person haunts a place, people say that they have seen it there

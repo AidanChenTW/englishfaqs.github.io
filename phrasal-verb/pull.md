@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">PULL</p>
+<h1 style="text-align: center;">PULL</h1>
 
 ## [pull ahead](https://www.oxfordlearnersdictionaries.com/definition/english/pull-ahead)
 - to move in front of somebody/something

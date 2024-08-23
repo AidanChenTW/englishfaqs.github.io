@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">INTRODUCE</p>
+<h1 style="text-align: center;">INTRODUCE</h1>
 
 ## [intro(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/intro)
 > plural intros, informal

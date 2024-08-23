@@ -1,6 +1,6 @@
-﻿[Back to Contents](../../README.md)
+﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">BODY</p>
+<h1 style="text-align: center;">BODY</h1>
 
 
 ## [intestine(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/intestine)

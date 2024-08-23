@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">PROCESS, PROGRESS, PROCEED</p>
+<h1 style="text-align: center;">PROCESS, PROGRESS, PROCEED</h1>
 
 ## PROCESS  
 

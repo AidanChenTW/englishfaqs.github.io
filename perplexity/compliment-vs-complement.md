@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../README.md)
 
-# <p style="text-align: center;">COMPLIMENT VS COMPLEMENT</p>
+<h1 style="text-align: center;">COMPLIMENT VS COMPLEMENT</h1>
 
 # COMPLIMENT
 ## [compliment(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/compliment_1)

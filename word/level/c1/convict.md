@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">CONVICT</p>
+<h1 style="text-align: center;">CONVICT</h1>
 
 ## [convict(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/convict_1)
 > Verb Forms: convict / convicts / convicted / convicted / convicting

@@ -1,6 +1,6 @@
 [Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">REGARD</p>
+<h1 style="text-align: center;">REGARD</h1>
 
 ## [regard(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/regard_1)
 > Verb Forms: regard / regards / regarded / regarded / regarding

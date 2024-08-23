@@ -1,6 +1,6 @@
 ﻿[Back to Contents](../../../README.md)
 
-# <p style="text-align: center;">APPEAL</p>
+<h1 style="text-align: center;">APPEAL</h1>
 
 ## [appeal(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/appeal_1)
 - (countable, uncountable)呼籲
