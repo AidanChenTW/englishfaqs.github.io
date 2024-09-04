@@ -6,6 +6,8 @@
 - [corrupt, disrupt](./perplexity/corrupt-disrupt.md)
 - [desperate vs. desperado](./perplexity/desperate-vs-desperado.md)
 - [process, progress, proceed](./perplexity/process-progress-proceed.md)
+- [provoke, revoke](./perplexity/provoke-revoke.md)
+- [setting, configuration, set-up](./perplexity/setting-configuration-setup.md)
 - [used to vs. be used to](./perplexity/used-to-vs-be-used-to.md)
 
 ## phrasal-verb
@@ -22,6 +24,7 @@
 ## topics
 - [body](./topics/body.md)
 - [foods](./topics/foods.md)
+- [mammal](./topics/mammal.md)
 - [musicians](./topics/musician.md)
 - [packaging](./topics/packaging.md)
 - [trees](./topics/trees.md)
@@ -41,6 +44,7 @@
 #### b2
 
 - [appeal](./word/level/b2/appeal.md)
+- [otherwise](./word/level/b2/otherwise.md)
 - [regard](./word/level/b2/regard.md)
 - [tear](./word/level/b2/tear.md)
 
@@ -48,4 +52,5 @@
 
 - [convict](./word/level/c1/convict.md)
 - [haunt](./word/level/c1/haunt.md)
+- [vague](./word/level/c1/vague.md)
 - [verdict](./word/level/c1/verdict.md)
