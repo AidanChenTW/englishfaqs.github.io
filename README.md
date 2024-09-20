@@ -28,6 +28,7 @@
 ## topics
 
 - [body](./topics/body.md)
+- [cut](./topics/cut.md)
 - [foods](./topics/foods.md)
 - [mammal](./topics/mammal.md)
 - [musicians](./topics/musician.md)
@@ -58,5 +59,6 @@
 
 - [convict](./word/level/c1/convict.md)
 - [haunt](./word/level/c1/haunt.md)
+- [manifest](./word/level/c1/manifest.md)
 - [vague](./word/level/c1/vague.md)
 - [verdict](./word/level/c1/verdict.md)
