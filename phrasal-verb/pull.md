@@ -58,7 +58,7 @@
 
 ## [pull off](https://www.oxfordlearnersdictionaries.com/definition/english/pull-off)
 - (of a vehicle or its driver) to leave the road in order to stop for a short time
-- to succeed in doing something difficule
+- to succeed in doing something difficult
 
 ## [pull on](https://www.oxfordlearnersdictionaries.com/definition/english/pull-on)
 - to take long deep breaths from a cigarette, etc.; pull at

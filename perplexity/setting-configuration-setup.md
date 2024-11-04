@@ -11,8 +11,7 @@
 - (usually settings[plural]) the place on a computer or other electronic device where you can choose the way that it works or looks; the particular choices that you make
 - (music) music written to go with a poem, etc.
 - a piece of metal in which a precious stone is fixed to form a piece of jewellery
-- a piece setting
-
+- a complete set of equipment for eating with(knife, fork, spoon, glass, etc.) for one person, arranged on a table
 
 ## CONFIGURATION
 
@@ -23,7 +22,6 @@
 ### [configuration(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/configuration)
 - (formal or specialist) an arrangement of the parts of something or a group of things; the form or shape that this arrangement produces
 - (computing) the equipment and programs that form a computer system and the way that these are set up to run
-
 
 ## SET-UP
 
