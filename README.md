@@ -53,6 +53,7 @@
 
 - [come](./word/level/a1/come.md)
 - [introduce](./word/level/a1/introduce.md)
+- [sound](./word/level/a1/sound.md)
 - [subject](./word/level/a1/subject.md)
 
 #### a2
@@ -60,11 +61,13 @@
 
 #### b1
 
+- [argue](./word/level/b1/argue.md)
 - [commit](./word/level/b1/commit.md)
 
 #### b2
 
 - [appeal](./word/level/b2/appeal.md)
+- [bid](./word/level/b2/bid.md)
 - [fulfill](./word/level/b2/fulfill.md)
 - [orchestra](./word/level/b2/orchestra.md)
 - [otherwise](./word/level/b2/otherwise.md)
@@ -75,6 +78,7 @@
 
 - [bail](./word/level/c1/bail.md)
 - [convict](./word/level/c1/convict.md)
+- [dope](./word/level/c1/dope.md)
 - [haunt](./word/level/c1/haunt.md)
 - [manifest](./word/level/c1/manifest.md)
 - [overwhelm](./word/level/c1/overwhelm.md)

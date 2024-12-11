@@ -17,3 +17,4 @@
 ## [vagueness(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/vagueness)
 - the fact of not being clear in a person's mind
 - the fact of not having or giving enough information or details about something
+ ****
