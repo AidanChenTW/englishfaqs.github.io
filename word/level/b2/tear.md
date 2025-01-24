@@ -3,18 +3,27 @@
 <h1 style="text-align: center;">TEAR</h1>
 
 ## [tear(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/tear1_1)
-> Verb Forms: tear/tore/torn
-* damage: [rip]，撕裂
-* remove from something/somebody: 撕裂，掙脫
-* injure muscle: 拉傷，撕裂傷
-* move quickly: 疾馳
+> Verb Forms: tear / tears / tore / torn / tearing
+* damage
+  * to damage something by pulling it apart or into pieces or by cutting it on something sharp; to become damaged in this way. SYNONYM: rip
+  * [transitive] to make a hole in something by force. SYNONYM: rip
+* remove from something / somebody
+  * [transitive] to remove something from something else by pulling it roughly or violently. SYNONYM: rip
+  * [transitive] to pull yourself/somebody away by force from somebody/something that is holding you or them
+  * [transitive] to injure a muscle, etc. by stretching it too much
+  * [transitive] to move somewhere very quickly or in an excited way
 * -torn: (in adjectives) very badly affected or damaged by something
 
 ## [tear(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/tear1_2)
-* 撕裂
+* a hole that has been made in something by tearing
+
+## [tear(verb)](https://www.oxfordlearnersdictionaries.com/definition/english/tear2_1)
+> Verb Forms: tear / tears / teared / teared / tearing
+* tear up: 流淚
 
 ## [tear(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/tear2_2)
-* 淚水
+> usually plural
+* a drop of liquid that comes out of your eye when you cry
 
 ## [tearaway(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/tearaway)
 *  a young person who is difficult to control and often does stupid, dangerous and/or illegal things

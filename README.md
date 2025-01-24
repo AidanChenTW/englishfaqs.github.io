@@ -14,8 +14,10 @@
 
 ## phrasal-verb
 
+- [carry](./phrasal-verb/carry.md)
 - [come](./phrasal-verb/come.md)
 - [pull](./phrasal-verb/pull.md)
+- [tear](./phrasal-verb/tear.md)
 
 ## prefix
 
@@ -34,6 +36,7 @@
 - [cooking](./topics/cooking.md)
 - [culture](./topics/culture.md)
 - [cut](./topics/cut.md)
+- [end of email](./topics/end_of_email.md)
 - [foods](./topics/foods.md)
 - [greek_mythology](./topics/greek_mythology.md)
 - [mammal](./topics/mammal.md)
@@ -43,7 +46,7 @@
 - [put](./topics/put.md)
 - [state](./topics/state.md)
 - [trees](./topics/trees.md)
-- [type_of_leave](./topics/type_of_leave.md)
+- [type of leave](./topics/type_of_leave.md)
 
 ## word
 
@@ -51,17 +54,23 @@
 
 #### a1
 
+- [carry](./word/level/a1/carry.md)
 - [come](./word/level/a1/come.md)
+- [draw](./word/level/a1/draw.md)
 - [introduce](./word/level/a1/introduce.md)
 - [sound](./word/level/a1/sound.md)
+- [stand](./word/level/a1/stand.md)
 - [subject](./word/level/a1/subject.md)
 
 #### a2
-- [cauch](./word/level/a2/cauch.md)
+
+- [along](./word/level/a2/along.md)
+- [argue](./word/level/a2/argue.md)
+- [coach](./word/level/a2/coach.md)
+- [refer](./word/level/a2/refer.md)
 
 #### b1
 
-- [argue](./word/level/b1/argue.md)
 - [commit](./word/level/b1/commit.md)
 
 #### b2
@@ -78,6 +87,7 @@
 
 - [bail](./word/level/c1/bail.md)
 - [convict](./word/level/c1/convict.md)
+- [dip](./word/level/c1/dip.md)
 - [dope](./word/level/c1/dope.md)
 - [haunt](./word/level/c1/haunt.md)
 - [manifest](./word/level/c1/manifest.md)
@@ -86,3 +96,4 @@
 - [vague](./word/level/c1/vague.md)
 - [verdict](./word/level/c1/verdict.md)
 
+#### c2
