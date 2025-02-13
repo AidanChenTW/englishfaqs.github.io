@@ -16,7 +16,9 @@
 
 - [carry](./phrasal-verb/carry.md)
 - [come](./phrasal-verb/come.md)
+- [draw](./phrasal-verb/draw.md)
 - [pull](./phrasal-verb/pull.md)
+- [stand](./phrasal-verb/stand.md)
 - [tear](./phrasal-verb/tear.md)
 
 ## prefix
@@ -54,6 +56,7 @@
 
 #### a1
 
+- [back](./word/level/a1/back.md)
 - [carry](./word/level/a1/carry.md)
 - [come](./word/level/a1/come.md)
 - [draw](./word/level/a1/draw.md)
@@ -67,6 +70,7 @@
 - [along](./word/level/a2/along.md)
 - [argue](./word/level/a2/argue.md)
 - [coach](./word/level/a2/coach.md)
+- [drop](./word/level/a2/drop.md)
 - [refer](./word/level/a2/refer.md)
 
 #### b1
