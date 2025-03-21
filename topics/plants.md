@@ -12,6 +12,10 @@
 ## [oak(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/oak)
     - (countable, uncountable)橡樹, oak tree
 
+## [convolvulus(noun)](https://www.oxfordlearnersdictionaries.com/definition/english/convolvulus)
+- 旋花屬
+- 牽牛花(Morning Glory)
+
 ## acorn
 
 ## willow
