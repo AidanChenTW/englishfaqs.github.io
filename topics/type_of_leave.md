@@ -38,6 +38,16 @@
 
 ### compensatory time / comp time: 補休
 
+### Verb Collocation
+
+- take 3 days off to ...
+- take the day off to ...
+- take Monday off to ...
+- take an annual leave to ...
+- take a special leave for a week ...
+- go on leave
+- be on leave
+- apply/ask for a menstrual leave
 
 ## References
 - [英文庫](https://english.cool/special-types-of-leave/)
