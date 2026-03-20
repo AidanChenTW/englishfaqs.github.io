@@ -1,10 +1,11 @@
-[Back to Contents](../README.md)
 
-
+<!-- markdownlint-disable-next-line MD033 -->
 <h1 style="text-align: center;">WHERE</h1>
 
+[Back to Contents](../README.md)
 
 ## [where(adverb)](https://www.oxfordlearnersdictionaries.com/definition/english/where_1)
+
 1. in or to what place or situation
    - Where (= in what book, newspaper, etc.) did you read that?
 2. used after words or phrases that refer to a place or situation to mean 'at, in or to which'
@@ -12,8 +13,8 @@
 3. the place or situation in which
    - We then moved to Paris, where we lived for six years.
 
-
 ## [where(conjunction)](https://www.oxfordlearnersdictionaries.com/definition/english/where_2)
+
 1. (in) the place or situation in which
    - Sit where I can see you
 
